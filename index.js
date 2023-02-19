@@ -109,9 +109,6 @@
                         ok.style.color = 'blue';
                     })();
                 }
-                setTimeout( function redirect(){
-                    window.location = "./combin.html";
-                }, 2000)
             }else{
                 if(number_sahih.length == 5){
                     const matn2_auto_script = "کد را درست وارد نکرده اید لطفا دوباره سعی کنید";
