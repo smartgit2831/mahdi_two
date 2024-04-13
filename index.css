@@ -33,11 +33,14 @@
             border-radius: 25px;
             padding: 12px;
             margin: 18px;
+            width: 450px;
+            margin: auto;
         }
         .code_check1{
             text-align: center;
         }
         .number{
+            padding: 6px;
             width: 150px;
             border-radius: 45px;
             background: rgb(234, 241, 122);
